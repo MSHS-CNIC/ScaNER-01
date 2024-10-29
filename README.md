@@ -11,6 +11,7 @@ Welcome to the **ScaNER-01** repository! This project provides the code for **Sc
 - [Framework Guide](#framework-guide)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
+- [License](#license)
 
 
 ---
@@ -66,7 +67,8 @@ To run the framework, follow the five Python files sequentially:
 ## Contributing
 We welcome contributions! If you’d like to contribute, please submit a pull request and ensure your changes are thoroughly documented and tested.
 
-
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 
 
